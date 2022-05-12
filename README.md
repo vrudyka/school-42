@@ -1,4 +1,4 @@
-### Compilation of School 42 Projects
+🍀 Compilation of School 42 Projects
 
 # Fractol
 
