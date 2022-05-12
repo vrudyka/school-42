@@ -31,7 +31,7 @@ Each number corresponds to a point in space:
 :-----------------------:|:-------------------------:
 ![iso](https://github.com/vrudyka/school-42/blob/main/fdf/img/elem.png) | ![paralel](https://github.com/vrudyka/school-42/blob/main/fdf/img/anim.gif)
 
-#RTv1
+# RTv1
 
 RTv1 is a simple ray tracing program.
 
