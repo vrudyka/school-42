@@ -10,9 +10,9 @@ Program is able to produce:
 - [Julia set](https://en.wikipedia.org/wiki/Julia_set)
 - [Burning Ship](https://en.wikipedia.org/wiki/Burning_Ship_fractal)
 
-![julia](https://github.com/vrudyka/fractol/blob/master/screenshots/fractal3.png) | ![julia](https://github.com/vrudyka/fractol/blob/master/screenshots/fractal0.png)
+![julia](https://github.com/vrudyka/school-42/blob/main/fractol/screenshots/fractal3.png) | ![julia](https://github.com/vrudyka/school-42/blob/main/fractol/screenshots/fractal0.png)
 :-------------------------:|:-------------------------:
-![burning](https://github.com/vrudyka/fractol/blob/master/screenshots/fractal4.png) | ![burning](https://github.com/vrudyka/fractol/blob/master/screenshots/fractal2.png)
+![burning](https://github.com/vrudyka/school-42/blob/main/fractol/screenshots/fractal4.png) | ![burning](https://github.com/vrudyka/school-42/blob/main/fractol/screenshots/fractal2.png)
 
 
 # FdF
@@ -29,8 +29,13 @@ Each number corresponds to a point in space:
 
 | Isometric projection | Paralel projection in motion |
 :-----------------------:|:-------------------------:
-![iso](https://github.com/vrudyka/fdf/blob/master/img/elem.png) | ![paralel](https://github.com/vrudyka/fdf/blob/master/img/anim.gif)
+![iso](https://github.com/vrudyka/school-42/blob/main/fdf/img/elem.png) | ![paralel](https://github.com/vrudyka/school-42/blob/main/fdf/img/anim.gif)
 
+#RTv1
+
+RTv1 is a simple ray tracing program.
+
+![gnomes](https://github.com/vrudyka/school-42/blob/main/RTv1/img/gnomes.png) 
 
 # fillit
 
@@ -49,7 +54,7 @@ Program that assembles given Tetrimino set altogether in the smallest possible s
 ....  .##.  ....  ....
 ```
 
-![speed](https://github.com/vrudyka/fillit/blob/master/screenshot.png)
+![speed](https://github.com/vrudyka/school-42/blob/main/fillit/screenshot.png)
 
 
 # abstract-vm
