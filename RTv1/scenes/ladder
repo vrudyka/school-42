@@ -1,0 +1,39 @@
+cam:
+pos: 0.0, 0.0, 0.0
+dir: 0.0, 0.0, 1.0
+
+light:
+pos: -3.0, -3.0, -3.0
+dir: 0.0, 0.0, 5.0
+int: 0.75
+
+light:
+pos: 3.0, -3.0, -3.0
+dir: 0.0, 0.0, 5.0
+int: 0.75
+
+plane:
+pos: 0.0, 1.0, 0.0
+nor: 0.0, -1.0, 0.0
+col: 0x5D94FF
+
+cylinder:
+pos: -1.5, 0.67, 5.0
+axis: 0.0, 1.0, 0.0
+rad: 0.5
+end: 0.33
+col: 0xFFE330
+
+cylinder:
+pos: 0.0, 0.34, 5.0
+axis: 0.0, 1.0, 0.0
+rad: 0.5
+end: 0.66
+col: 0x21CCCC
+
+cylinder:
+pos: 1.5, 0.01, 5.0
+axis: 0.0, 1.0, 0.0
+rad: 0.5
+end: 0.99
+col: 0xFF9DEE

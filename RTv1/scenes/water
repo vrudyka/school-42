@@ -1,0 +1,28 @@
+cam:
+pos: 2.5, -1.0, 0.0
+dir: 0.0, -0.5, 5.0
+
+light:
+pos: 0.0, -3.0, -3.0
+dir: 0.0, 0.0, 5.0
+int: 0.75
+
+plane:
+pos: 0.0, 0.0, 6.0
+nor: 0.0, 0.0, -1.0
+col: 0x21CCCC
+
+sphere:
+pos: 0.5, 0.0, 5.0
+rad: 0.15
+col: 0xFFE330
+
+sphere:
+pos: -0.5, 0.0, 5.0
+rad: 0.15
+col: 0xFFE330
+
+sphere:
+pos: 0.0, -0.5, 5.0
+rad: 0.5
+col: 0xFFE330

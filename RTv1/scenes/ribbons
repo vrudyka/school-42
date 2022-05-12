@@ -1,0 +1,37 @@
+cam:
+pos: 0.0, 0.0, 0.0
+dir: 0.0, 0.0, 1.0
+
+light:
+pos: 0.0, 0.0, -3.0
+dir: 0.0, 0.0, 5.0
+int: 0.75
+
+plane:
+pos: 0.0, 0.0, 7.5
+nor: 0.0, 0.0, -1.0
+col: 0x21CCCC
+
+cone:
+pos: 1.5, 0.5, 5.0
+axis: 0.0, 1.0, 0.0
+angle: 0.99
+start: -2.5
+end: 2.5
+col: 0xC5FF2D
+
+cone:
+pos: 0.0, 0.0, 5.0
+axis: 0.0, 1.0, 0.0
+angle: 0.33
+start: -2.5
+end: 2.5
+col: 0xFFE330
+
+cone:
+pos: -1.5, -0.5, 5.0
+axis: 0.0, 1.0, 0.0
+angle: 0.66
+start: -2.5
+end: 2.5
+col: 0x5D94FF
