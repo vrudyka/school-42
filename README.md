@@ -1,5 +1,3 @@
-🍀 Compilation of School 42 Projects
-
 # Fractol
 
 The term fractal was first used by mathematician Benoit Mandelbrot in 1974, he based it on the Latin word fractus, meaning "broken" or "fractured".
